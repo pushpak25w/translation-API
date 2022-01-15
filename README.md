@@ -1,5 +1,4 @@
 # translation-API
-Machine translation API
 
 ### translation [api](http://127.0.0.1:6000/category/): 
     pip install -r requirements.txt 
@@ -7,3 +6,5 @@ Machine translation API
 ### test:
     python test.py
 #### dataset https://www.kaggle.com/pushpaksaraf/languages
+#### notebooks links:
+    training [https://www.kaggle.com/pushpak25/lang-to-trans]
