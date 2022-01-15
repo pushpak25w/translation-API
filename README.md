@@ -7,4 +7,4 @@
     python test.py
 #### dataset https://www.kaggle.com/pushpaksaraf/languages
 #### notebooks links:
-    training [https://www.kaggle.com/pushpak25/lang-to-trans]
+1. [training][https://www.kaggle.com/pushpak25/lang-to-trans]
